@@ -61,6 +61,16 @@ body{
     color: white;
 }
 
+.btn_edit{
+    position: relative;
+}
+
+.btn_right{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
 
 
 #seccion_acercaDe{
