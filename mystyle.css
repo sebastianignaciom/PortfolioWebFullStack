@@ -6,9 +6,11 @@
 
 body{
     margin-top: 15px;
+    margin-bottom: 15px;
     background: black;
     border: solid;
     border-color: aliceblue;
+    border-width: 1px 1px 1px 1px;
 }
 
 #nombre_programa{
@@ -93,6 +95,20 @@ body{
     width: auto;
     color: white;
 }
+
+.seccion_proyectos{
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-radius: 5px 5px 5px 5px;
+    border-width: 1px 1px 1px 1px;
+    border-color: aliceblue;
+    color: white;
+}
+
+
 
 .margin_key{
     margin-left: 20px; 
